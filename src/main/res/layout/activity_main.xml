@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:id="@android:id/tabhost">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <RelativeLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent">
+
+            <TextView
+                    android:id="@+id/queued_shipment_result_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"/>
+        </RelativeLayout>
+
+        <LinearLayout
+                android:id="@+id/main_tabs_header"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/main_tabs_header_height"
+                android:orientation="horizontal"
+                android:background="@color/main_tab_item_no_check">
+
+            <ImageView
+                    android:id="@+id/main_tabs_bill_right_shadow"
+                    android:layout_height="match_parent"
+                    android:layout_width="@dimen/main_tabs_item_shadow_with"
+                    android:background="@color/main_tab_item_shadow">
+            </ImageView>
+
+            <TextView
+                    android:id="@+id/main_tabs_bill_split"
+                    android:layout_height="match_parent"
+                    android:layout_width="@dimen/main_tabs_item_split_with"
+                    android:background="@color/main_tab_item_shadow">
+            </TextView>
+
+            <ImageView
+                    android:id="@+id/main_tabs_personal_left_shadow"
+                    android:layout_height="match_parent"
+                    android:layout_width="@dimen/main_tabs_item_shadow_with"
+                    android:scaleType="center">
+            </ImageView>
+
+            <ImageView
+                    android:id="@+id/main_tabs_personal_right_shadow"
+                    android:layout_height="match_parent"
+                    android:layout_width="@dimen/main_tabs_item_shadow_with"
+                    android:scaleType="center">
+            </ImageView>
+
+            <TextView
+                    android:id="@+id/main_tabs_personal_split"
+                    android:layout_height="match_parent"
+                    android:layout_width="@dimen/main_tabs_item_split_with"
+                    android:background="@color/main_tab_item_split">
+            </TextView>
+
+            <ImageView
+                    android:id="@+id/main_tabs_message_left_shadow"
+                    android:layout_height="match_parent"
+                    android:layout_width="@dimen/main_tabs_item_shadow_with"
+                    android:scaleType="center">
+            </ImageView>
+
+            <ImageView
+                    android:id="@+id/main_tabs_message_right_shadow"
+                    android:layout_height="match_parent"
+                    android:layout_width="@dimen/main_tabs_item_shadow_with"
+                    android:scaleType="center">
+            </ImageView>
+
+            <TextView
+                    android:id="@+id/main_tabs_message_split"
+                    android:layout_height="match_parent"
+                    android:layout_width="@dimen/main_tabs_item_split_with"
+                    android:background="@color/main_tab_item_split">
+            </TextView>
+
+            <ImageView
+                    android:id="@+id/main_tabs_query_left_shadow"
+                    android:layout_height="match_parent"
+                    android:layout_width="@dimen/main_tabs_item_shadow_with"
+                    android:scaleType="center">
+            </ImageView>
+        </LinearLayout>
+
+        <LinearLayout
+                android:id="@+id/main_tabs_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/main_tabs_bottom_height"
+                android:background="@color/main_tab_bottom"
+                android:orientation="horizontal"
+                android:layout_below="@id/main_tabs_header">
+        </LinearLayout>
+
+        <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone">
+        </TabWidget>
+
+        <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/main_tabs_bottom">
+        </FrameLayout>
+    </LinearLayout>
+</TabHost>

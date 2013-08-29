@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="task_list_header_checked">#333333</drawable>
+    <drawable name="task_list_header_unchecked">#999999</drawable>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="task_list_background_white">#ffffff</color>
+    <color name="task_list_item_frame_dark_gray">#4f4f4f</color>
+    <color name="task_list_item_background_white">#f2f2f2</color>
+    <color name="delivery_item_time_font_green">#0b8a4a</color>
+    <color name="delivery_item_time_font_red">#f10a36</color>
+    <color name="task_list_dark">#4d4d4d</color>
+    <color name="task_list_light">#999999</color>
+    <color name="task_list_transparent">#00000000</color>
+    <color name="task_bill_info">#333333</color>
+    <color name="list_view_background">#cccccc</color>
+
+    <color name="main_tab_item_check">#6e2020</color>
+    <color name="main_tab_item_shadow">#581a1a</color>
+    <color name="main_tab_item_no_check">#333333</color>
+    <color name="main_tab_item_split">#404040</color>
+    <color name="main_tab_bottom">#c81d1d</color>
+
+    <color name="delivery_failed_divider">#f1f1f1</color>
+    <color name="delivery_failed_background">#bfbfbf</color>
+    <color name="delivery_failed_list_item_text">#808080</color>
+    <color name="delivery_background_color">#bfbfbf</color>
+    <color name="delivery_detail_text_color">#4c4c4c</color>
+
+    <color name="bill_set_header_color">#363636</color>
+    <color name="bill_set_header_direction_color">#a82f2f</color>
+    <color name="bill_set_time_color">#7f7f7f</color>
+    <color name="bill_set_split_color">#b2b2b2</color>
+    <color name="bill_set_seek_bar_background_color">#90444444</color>
+    <color name="bill_set_seek_bar_progress_start_color">#d80000</color>
+    <color name="bill_set_seek_bar_progress_end_color">#d80000</color>
+
+    <color name="fetch_delivery_dialog_translucent">#b0000000</color>
+    <color name="fetch_delivery_dialog_header_text_color">#363636</color>
+    <color name="fetch_delivery_dialog_header_line_color">#d9d9d9</color>
+    <color name="fetch_delivery_dialog_text_color">#808080</color>
+    <color name="fetch_delivery_exchanged_count_text_color">#0b8a4a</color>
+
+    <color name="pick_destination_text_color">#454545</color>
+
+    <color name="shipment_detail_total_price_color">#8B9D43</color>
+    <color name="shipment_detail_caption_color">#252525</color>
+    <color name="shipment_detail_text_color">#999999</color>
+    <color name="shipment_detail_separator_color">#F1F1F1</color>
+
+    <color name="pick_destination_city_text_color">#808080</color>
+
+    <color name="search_embargo_shipment_list_item_text_color">#808080</color>
+    <color name="pick_product_list_item_text_color">#808080</color>
+</resources>

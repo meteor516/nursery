@@ -1,0 +1,91 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="task_list_item_margin_left">16dp</dimen>
+    <dimen name="task_list_item_margin_right">11dp</dimen>
+    <dimen name="task_list_item_margin_top">2dp</dimen>
+    <dimen name="task_list_item_margin_bottom">6dp</dimen>
+    <dimen name="task_list_item_header_margin_top_and_bottom">12dp</dimen>
+
+    <dimen name="delivery_item_left_line_with">3dp</dimen>
+    <dimen name="delivery_item_bill_number_margin_top">7dp</dimen>
+    <dimen name="task_bill_info_height">48dp</dimen>
+    <dimen name="delivery_item_spear_line_margin_top">5dp</dimen>
+    <dimen name="delivery_item_info_margin_top">7dp</dimen>
+    <dimen name="delivery_item_image_height">17dp</dimen>
+    <dimen name="delivery_item_clock_image_margin_left">8dp</dimen>
+    <dimen name="delivery_item_time_margin_left">3dp</dimen>
+
+    <dimen name="task_list_default">13sp</dimen>
+    <dimen name="task_list_header_item_size">16sp</dimen>
+    <dimen name="task_bill_info_font_size">13sp</dimen>
+    <dimen name="task_bill_sort_font_size">16sp</dimen>
+
+    <dimen name="main_tabs_item_icon_with">74dp</dimen>
+    <dimen name="main_tabs_item_shadow_with">3dp</dimen>
+    <dimen name="main_tabs_item_split_with">1dp</dimen>
+    <dimen name="main_tabs_header_height">54dp</dimen>
+    <dimen name="main_tabs_bottom_height">3dp</dimen>
+
+    <dimen name="navigation_top_margin_left_anda_right">11dp</dimen>
+
+    <dimen name="delivery_scan_bill_number_text_size">32sp</dimen>
+    <dimen name="delivery_scan_edit_margin_top">8dp</dimen>
+    <dimen name="delivery_scan_edit_margin_bottom">18dp</dimen>
+    <dimen name="delivery_scan_intro_margin_bottom">30dp</dimen>
+    <dimen name="delivery_scan_done_btn_margin_bottom">10dp</dimen>
+    <dimen name="delivery_scan_finder_view_rect_height">212dp</dimen>
+    <dimen name="delivery_scan_finder_view_rect_padding">22dp</dimen>
+    <dimen name="delivery_scan_finder_view_rect_side_margin">8dp</dimen>
+
+    <dimen name="delivery_detail_background_margin">6dp</dimen>
+    <dimen name="delivery_detail_background_fading_edge_length">30dp</dimen>
+    <dimen name="delivery_detail_bill_number_label_margin_top">32dp</dimen>
+    <dimen name="delivery_detail_view_margin_left">22dp</dimen>
+    <dimen name="delivery_detail_view_margin_right">20dp</dimen>
+    <dimen name="delivery_detail_view_margin_top">6dp</dimen>
+    <dimen name="delivery_detail_view_margin_bottom">28dp</dimen>
+    <dimen name="delivery_detail_dot_line_margin_top">2dp</dimen>
+    <dimen name="delivery_detail_button_margin">8dp</dimen>
+    <dimen name="delivery_detail_button_margin_bottom">12dp</dimen>
+    <dimen name="delivery_detail_label_size">16sp</dimen>
+    <dimen name="delivery_detail_text_size">14sp</dimen>
+    <dimen name="delivery_detail_bill_number_text_size">32sp</dimen>
+    <dimen name="delivery_detail_bill_number_margin_top">-4dp</dimen>
+
+    <dimen name="bill_set_header_font_size">16dp</dimen>
+    <dimen name="bill_set_time_font_size">13dp</dimen>
+
+    <dimen name="fetch_delivery_dialog_margin_top">10dp</dimen>
+    <dimen name="fetch_delivery_dialog_width">282dp</dimen>
+    <dimen name="fetch_delivery_dialog_height">187dp</dimen>
+    <dimen name="fetch_delivery_dialog_header_size">18sp</dimen>
+    <dimen name="fetch_delivery_dialog_text_size">14sp</dimen>
+    <dimen name="fetch_delivery_exchanged_count_text_size">20sp</dimen>
+    <dimen name="fetch_delivery_dialog_button_margin_top">15dp</dimen>
+    <dimen name="fetch_delivery_dialog_icon_drawable_padding">5dp</dimen>
+
+    <dimen name="shipment_total_price_margin">10dp</dimen>
+    <dimen name="shipment_detail_thick_separator_width">2.67dp</dimen>
+    <dimen name="shipment_detail_separator_width">0.67dp</dimen>
+    <dimen name="shipment_detail_row_height">42.67dp</dimen>
+    <dimen name="shipment_detail_short_input_width">68dp</dimen>
+    <dimen name="shipment_detail_long_input_width">122dp</dimen>
+
+    <dimen name="horizontal_line_margin">5.33dp</dimen>
+    <dimen name="margin_to_border">20dp</dimen>
+    <dimen name="large_font">32sp</dimen>
+    <dimen name="normal_font">16sp</dimen>
+
+    <dimen name="form_field_right_margin">44dp</dimen>
+    <dimen name="box_margin">6dp</dimen>
+    <dimen name="text_margin">11dp</dimen>
+    <dimen name="confirm_button_margin_bottom">10.67dp</dimen>
+
+    <dimen name="one_px">0.67dp</dimen>
+
+    <dimen name="value_added_item_height">51.33dp</dimen>
+
+</resources>

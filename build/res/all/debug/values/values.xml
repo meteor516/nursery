@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/zhangruojia/Documents/code/nurseryProject/nursery/src/main/res/values/color.xml -->
+    <color name="bill_set_header_color">#363636</color>
+    <color name="bill_set_header_direction_color">#a82f2f</color>
+    <color name="bill_set_seek_bar_background_color">#90444444</color>
+    <color name="bill_set_seek_bar_progress_end_color">#d80000</color>
+    <color name="bill_set_seek_bar_progress_start_color">#d80000</color>
+    <color name="bill_set_split_color">#b2b2b2</color>
+    <color name="bill_set_time_color">#7f7f7f</color>
+    <color name="delivery_background_color">#bfbfbf</color>
+    <color name="delivery_detail_text_color">#4c4c4c</color>
+    <color name="delivery_failed_background">#bfbfbf</color>
+    <color name="delivery_failed_divider">#f1f1f1</color>
+    <color name="delivery_failed_list_item_text">#808080</color>
+    <color name="delivery_item_time_font_green">#0b8a4a</color>
+    <color name="delivery_item_time_font_red">#f10a36</color>
+    <color name="fetch_delivery_dialog_header_line_color">#d9d9d9</color>
+    <color name="fetch_delivery_dialog_header_text_color">#363636</color>
+    <color name="fetch_delivery_dialog_text_color">#808080</color>
+    <color name="fetch_delivery_dialog_translucent">#b0000000</color>
+    <color name="fetch_delivery_exchanged_count_text_color">#0b8a4a</color>
+    <color name="list_view_background">#cccccc</color>
+    <color name="main_tab_bottom">#c81d1d</color>
+    <color name="main_tab_item_check">#6e2020</color>
+    <color name="main_tab_item_no_check">#333333</color>
+    <color name="main_tab_item_shadow">#581a1a</color>
+    <color name="main_tab_item_split">#404040</color>
+    <color name="pick_destination_city_text_color">#808080</color>
+    <color name="pick_destination_text_color">#454545</color>
+    <color name="pick_product_list_item_text_color">#808080</color>
+    <color name="search_embargo_shipment_list_item_text_color">#808080</color>
+    <color name="shipment_detail_caption_color">#252525</color>
+    <color name="shipment_detail_separator_color">#F1F1F1</color>
+    <color name="shipment_detail_text_color">#999999</color>
+    <color name="shipment_detail_total_price_color">#8B9D43</color>
+    <color name="task_bill_info">#333333</color>
+    <color name="task_list_background_white">#ffffff</color>
+    <color name="task_list_dark">#4d4d4d</color>
+    <color name="task_list_item_background_white">#f2f2f2</color>
+    <color name="task_list_item_frame_dark_gray">#4f4f4f</color>
+    <color name="task_list_light">#999999</color>
+    <color name="task_list_transparent">#00000000</color>
+    <!-- From: file:/Users/zhangruojia/Documents/code/nurseryProject/nursery/src/main/res/values/dimens.xml -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bill_set_header_font_size">16dp</dimen>
+    <dimen name="bill_set_time_font_size">13dp</dimen>
+    <dimen name="box_margin">6dp</dimen>
+    <dimen name="confirm_button_margin_bottom">10.67dp</dimen>
+    <dimen name="delivery_detail_background_fading_edge_length">30dp</dimen>
+    <dimen name="delivery_detail_background_margin">6dp</dimen>
+    <dimen name="delivery_detail_bill_number_label_margin_top">32dp</dimen>
+    <dimen name="delivery_detail_bill_number_margin_top">-4dp</dimen>
+    <dimen name="delivery_detail_bill_number_text_size">32sp</dimen>
+    <dimen name="delivery_detail_button_margin">8dp</dimen>
+    <dimen name="delivery_detail_button_margin_bottom">12dp</dimen>
+    <dimen name="delivery_detail_dot_line_margin_top">2dp</dimen>
+    <dimen name="delivery_detail_label_size">16sp</dimen>
+    <dimen name="delivery_detail_text_size">14sp</dimen>
+    <dimen name="delivery_detail_view_margin_bottom">28dp</dimen>
+    <dimen name="delivery_detail_view_margin_left">22dp</dimen>
+    <dimen name="delivery_detail_view_margin_right">20dp</dimen>
+    <dimen name="delivery_detail_view_margin_top">6dp</dimen>
+    <dimen name="delivery_item_bill_number_margin_top">7dp</dimen>
+    <dimen name="delivery_item_clock_image_margin_left">8dp</dimen>
+    <dimen name="delivery_item_image_height">17dp</dimen>
+    <dimen name="delivery_item_info_margin_top">7dp</dimen>
+    <dimen name="delivery_item_left_line_with">3dp</dimen>
+    <dimen name="delivery_item_spear_line_margin_top">5dp</dimen>
+    <dimen name="delivery_item_time_margin_left">3dp</dimen>
+    <dimen name="delivery_scan_bill_number_text_size">32sp</dimen>
+    <dimen name="delivery_scan_done_btn_margin_bottom">10dp</dimen>
+    <dimen name="delivery_scan_edit_margin_bottom">18dp</dimen>
+    <dimen name="delivery_scan_edit_margin_top">8dp</dimen>
+    <dimen name="delivery_scan_finder_view_rect_height">212dp</dimen>
+    <dimen name="delivery_scan_finder_view_rect_padding">22dp</dimen>
+    <dimen name="delivery_scan_finder_view_rect_side_margin">8dp</dimen>
+    <dimen name="delivery_scan_intro_margin_bottom">30dp</dimen>
+    <dimen name="fetch_delivery_dialog_button_margin_top">15dp</dimen>
+    <dimen name="fetch_delivery_dialog_header_size">18sp</dimen>
+    <dimen name="fetch_delivery_dialog_height">187dp</dimen>
+    <dimen name="fetch_delivery_dialog_icon_drawable_padding">5dp</dimen>
+    <dimen name="fetch_delivery_dialog_margin_top">10dp</dimen>
+    <dimen name="fetch_delivery_dialog_text_size">14sp</dimen>
+    <dimen name="fetch_delivery_dialog_width">282dp</dimen>
+    <dimen name="fetch_delivery_exchanged_count_text_size">20sp</dimen>
+    <dimen name="form_field_right_margin">44dp</dimen>
+    <dimen name="horizontal_line_margin">5.33dp</dimen>
+    <dimen name="large_font">32sp</dimen>
+    <dimen name="main_tabs_bottom_height">3dp</dimen>
+    <dimen name="main_tabs_header_height">54dp</dimen>
+    <dimen name="main_tabs_item_icon_with">74dp</dimen>
+    <dimen name="main_tabs_item_shadow_with">3dp</dimen>
+    <dimen name="main_tabs_item_split_with">1dp</dimen>
+    <dimen name="margin_to_border">20dp</dimen>
+    <dimen name="navigation_top_margin_left_anda_right">11dp</dimen>
+    <dimen name="normal_font">16sp</dimen>
+    <dimen name="one_px">0.67dp</dimen>
+    <dimen name="shipment_detail_long_input_width">122dp</dimen>
+    <dimen name="shipment_detail_row_height">42.67dp</dimen>
+    <dimen name="shipment_detail_separator_width">0.67dp</dimen>
+    <dimen name="shipment_detail_short_input_width">68dp</dimen>
+    <dimen name="shipment_detail_thick_separator_width">2.67dp</dimen>
+    <dimen name="shipment_total_price_margin">10dp</dimen>
+    <dimen name="task_bill_info_font_size">13sp</dimen>
+    <dimen name="task_bill_info_height">48dp</dimen>
+    <dimen name="task_bill_sort_font_size">16sp</dimen>
+    <dimen name="task_list_default">13sp</dimen>
+    <dimen name="task_list_header_item_size">16sp</dimen>
+    <dimen name="task_list_item_header_margin_top_and_bottom">12dp</dimen>
+    <dimen name="task_list_item_margin_bottom">6dp</dimen>
+    <dimen name="task_list_item_margin_left">16dp</dimen>
+    <dimen name="task_list_item_margin_right">11dp</dimen>
+    <dimen name="task_list_item_margin_top">2dp</dimen>
+    <dimen name="text_margin">11dp</dimen>
+    <dimen name="value_added_item_height">51.33dp</dimen>
+    <!-- From: file:/Users/zhangruojia/Documents/code/nurseryProject/nursery/src/main/res/values/drawables.xml -->
+    <drawable name="task_list_header_checked">#333333</drawable>
+    <drawable name="task_list_header_unchecked">#999999</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <!-- From: file:/Users/zhangruojia/Documents/code/nurseryProject/nursery/src/main/res/values/strings.xml -->
+    <string name="action_settings">Settings</string>
+    <string name="app_name">nursery</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/Users/zhangruojia/Documents/code/nurseryProject/nursery/src/main/res/values/styles.xml -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
